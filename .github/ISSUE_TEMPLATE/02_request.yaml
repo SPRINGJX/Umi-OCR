@@ -9,7 +9,7 @@ body:
       
       When proposing a new feature, please clearly state the applicable scenarios, operation methods, and the desired effects.
       
-      This project is primarily maintained and updated by [hiroi-sora](https://github.com/hiroi-sora) alone. Given the limited time and energy, not all requests can necessarily be implemented. Your understanding is appreciated.
+      The developer has limited time and energy, and may not be able to fulfill all requests. Your understanding is appreciated.
       
       ---
       
@@ -17,7 +17,7 @@ body:
       
       提出新功能时，请明确说明适用场景、操作方式、希望达到的效果。
       
-      本项目主要由 [hiroi-sora](https://github.com/hiroi-sora) 单人维护更新，时间精力有限，不一定能实现所有的请求，敬请谅解。
+      开发者时间精力有限，不一定能实现所有的请求，敬请谅解。
 - type: textarea
   attributes:
     label: Expected behavior 预期的功能
